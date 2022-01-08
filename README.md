@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Front-end com foco em mobile com React Native.
 
-- 🔭 Atualmente estou trabalhando como freelancer.
+- 🔭 Atualmente estou trabalhando na Atos6.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [wandersonalwes.com.br](https://wandersonalwes.com.br/)
 
