@@ -1,4 +1,4 @@
-<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou wanderson</h1>
+# Olá 👋, Eu sou wanderson
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandersonalwes&color=green" alt="Visualizacões no perfil" /> </p>
 
