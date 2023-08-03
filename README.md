@@ -1,10 +1,10 @@
 # Olá 👋, Eu sou wanderson
 
-- 🔥 Desenvolvedor Front-end com foco em mobile com React Native.
+- 🔥 Desenvolvedor Front-end com foco em ReactJS e React Native.
 
-- 🔭 Atualmente estou trabalhando na Atos6.
+- 🔭 Atualmente estou trabalhando na Raise Sistemas (E-inscrição).
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [wandersonalwes.com.br](https://wandersonalwes.com.br/)
+- 👨‍💻 Alguns dos meus projetos estão disponíveis em [wandersonalwes.com.br](https://wandersonalwes.com.br/)
 
 <br><br>
 
