@@ -1,50 +1,29 @@
-# Olá 👋, Eu sou wanderson
+# Olá 👋, Eu sou o Wanderson!
 
-- 🔥 Desenvolvedor Front-end com foco em ReactJS e React Native.
+## Sobre Mim
 
-- 🔭 Atualmente estou trabalhando na Raise Sistemas (E-inscrição).
+Sou um desenvolvedor mobile apaixonado por criar aplicativos inovadores e de alta qualidade com **React Native**. Minha expertise abrange o desenvolvimento para iOS e Android, otimização de desempenho e design de interfaces intuitivas.
 
-- 👨‍💻 Alguns dos meus projetos estão disponíveis em [wandersonalwes.com.br](https://wandersonalwes.com.br/)
+## Habilidades
 
-<br><br>
+- **React Native**: Desenvolvimento multiplataforma 🚀
+- **JavaScript**: Avançado, incluindo React Hooks e Context API 💻
+- **Otimização de Desempenho**: Testes e ajustes rigorosos ⚙️
+- **UI/UX Design**: Interfaces intuitivas e acessíveis 🎨
+- **Testes**: Jest, Maestro e práticas de teste 📊
+- **CI/CD**: Pipelines de integração e entrega contínua 🔄
+- **Colaboração**: Trabalho em equipe com backend, design e QA 🤝
 
-## 🛠 &nbsp;Tecnologias e Ferramentas
+## Contribuições
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
-![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=FFFFFF)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=FFFFFF)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)&nbsp;
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=FFFFFF)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)&nbsp;
-![Conventional Commits](https://img.shields.io/badge/-Conventional%20Commits-FE5196?style=for-the-badge&logo=conventional-commits&logoColor=FFFFFF)&nbsp;
+- **Open Source**: Participação em projetos e comunidades 🌍
+- **Engajamento**: Atualizado com as últimas tendências e melhores práticas 📚
 
-## 🛠 &nbsp;Tenho interesse
+## Contato
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=FFFFFF)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=FFFFFF)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=FFFFFF)&nbsp;
+Vamos conectar! 📩
 
-## :snake: Snake animation
+- **Email**: [code.wanderson@gmail.com](mailto:code.wanderson@gmail.com)
+- **LinkedIn**: [Wanderson Alves](https://www.linkedin.com/in/wandersonalwes/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+Obrigado por visitar meu perfil! 🚀
