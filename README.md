@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor mobile apaixonado por criar aplicativos inovadores e de alta qualidade com **React Native**. Minha expertise abrange o desenvolvimento para iOS e Android, otimização de desempenho e design de interfaces intuitivas.
+Sou um desenvolvedor front-end & mobile apaixonado por criar aplicativos inovadores e de alta qualidade com **React.js** e **React Native**. Minha expertise abrange o desenvolvimento para iOS, Android e Web, otimização de desempenho e design de interfaces intuitivas.
 
 ## Habilidades
 
@@ -23,7 +23,7 @@ Sou um desenvolvedor mobile apaixonado por criar aplicativos inovadores e de alt
 
 Vamos conectar! 📩
 
-- **Email**: [code.wanderson@gmail.com](mailto:code.wanderson@gmail.com)
+- **Email**: [contato@@wandersonalves.dev](mailto:contato@@wandersonalves.dev)
 - **LinkedIn**: [Wanderson Alves](https://www.linkedin.com/in/wandersonalwes/)
 
 Obrigado por visitar meu perfil! 🚀
